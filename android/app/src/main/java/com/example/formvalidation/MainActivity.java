@@ -1,4 +1,4 @@
-package com.example.formvalidation;
+package com.example.productos;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
